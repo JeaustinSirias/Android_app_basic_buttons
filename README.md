@@ -1,4 +1,4 @@
-# Basic Android application with functional buttons
+# Basic Android app with functional buttons
 This is an introductory sample to Android apps development by using [Android Studio](https://developer.android.com/studio) for developers. 
 
 ## Instructions
